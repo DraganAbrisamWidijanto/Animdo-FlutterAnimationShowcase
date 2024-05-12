@@ -7,7 +7,7 @@ Animdo is a Flutter project showcasing animated UI elements using Flutter widget
 - **Rotating Star Icon**: A star icon rotates continuously as part of the UI animation.
 
 ### Screenshots
-![Animdo Screenshot](-)
+![Animdo Screenshot](https://github.com/DraganAbrisamWidijanto/Animdo-FlutterAnimationShowcase/blob/main/TampilanApp.png)
 
 ### Getting Started
 This project serves as a starting point for learning Flutter animation techniques. If you're new to Flutter development, you can refer to the following resources:
